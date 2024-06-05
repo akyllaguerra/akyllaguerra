@@ -4,7 +4,7 @@ Meu nome é Ákylla Guerreiro
 
 - Estou estudando no [Alura](https://www.alura.com.br)
 - E estudo na escola Ana Franco, a número 1 do estado 🥇
-- Utilizo esse espaço para minha organização e compartilhamento dos meusprojetos desenvolvidos
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você pode entrar em contato comigo 📪
 
